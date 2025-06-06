@@ -4,6 +4,7 @@
 
 🚀 **I’m actively seeking Full-Stack Developer or Software Engineer opportunities** where I can build impactful, scalable web applications and grow with a passionate team. I'm highly motivated and **passionate to thrive in the tech industry**, constantly improving my skills and staying updated with the latest trends.
 
+***Visit my portfolio website to learn more about me** [click here](https://personal-portfolio-website-iota-mauve.vercel.app/)
 ---
 ### 🧠 Programming Languages
 
@@ -78,18 +79,20 @@
 
 ### 🔗 Projects
 
-#### 🎬 [Tech Vibe](https://shortshub.vercel.app)  
+#### 🎬 Tech Vibe
+[Try it](https://tech-vibe-weld.vercel.app/)  
 [💻 GitHub](https://github.com/Ganapathi810/tech-vibe)
 
 ---
 
-#### 🧑‍💻 [Personal Portfolio Website] 
+#### 🧑‍💻 Personal Portfolio Website 
 [Try it](https://personal-portfolio-website-iota-mauve.vercel.app/)  
 [💻 GitHub](https://github.com/Ganapathi810/personal-portfolio-website)
 
 ---
 
-#### ✅ [Todo App](https://todoappfree.vercel.app/)  
+#### ✅ Todo App
+[Try it](https://todoappfree.vercel.app/)  
 [💻 GitHub](https://github.com/Ganapathi810/todo-app)
 
 ---
