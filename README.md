@@ -1,4 +1,3 @@
-
 ## Hi there 👋 I'm Ganapathi
 
 🎓 I am a graduate with a degree in Computer Science and Engineering, graduated in **mid-2024**, and specialize in building responsive, dynamic apps using the **MERN stack** and modern web technologies.
@@ -66,8 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </p>
 
-
-
 ---
 
 ### 🌱 Currently Learning
@@ -82,27 +79,18 @@
 ### 🔗 Projects
 
 #### 🎬 [Tech Vibe](https://shortshub.vercel.app)  
-**Stack:** React.js, Node.js, Express.js, MongoDB, Firebase, AWS  
-- Developed a short-video web app for tech content with vertical scrolling UI.
-- Features include user profiles, likes/dislikes, comments, share functionality, and a follow system.
-- Integrated Firebase Auth (Google & Email link sign-in) and Amazon S3 for media storage.  
-[💻 GitHub](https://github.com/Ganapathi810/shortshub)
+[💻 GitHub](https://github.com/Ganapathi810/tech-vibe)
 
 ---
 
-#### 🧑‍💻 [Personal Portfolio Website](https://personal-portfolio-website-iota-mauve.vercel.app/)  
-**Stack:** React.js, Tailwind CSS, Framer Motion  
-- Built a modern, animated portfolio to showcase projects, skills, and contact info.
-- Smooth UI with Motion animations and responsive design.  
-[💻 GitHub](https://github.com/Ganapathi810/portfolio)
+#### 🧑‍💻 [Personal Portfolio Website] 
+[Try it](https://personal-portfolio-website-iota-mauve.vercel.app/)  
+[💻 GitHub](https://github.com/Ganapathi810/personal-portfolio-website)
 
 ---
 
-#### ✅ [Todo App](https://taskify-app.vercel.app)  
-**Stack:** React.js, Node.js, Express.js, MongoDB  
-- Dynamic, responsive Todo App with full CRUD, Firebase Auth, and session handling.
-- Includes drag-and-drop task priority, filter, and sort functionality.  
-[💻 GitHub](https://github.com/Ganapathi810/taskify)
+#### ✅ [Todo App](https://todoappfree.vercel.app/)  
+[💻 GitHub](https://github.com/Ganapathi810/todo-app)
 
 ---
 
