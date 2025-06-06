@@ -108,10 +108,4 @@
 
 ---
 
-### ⚡ Fun Fact
-
-> I enjoy the full development lifecycle — from designing smooth UIs with Motion to architecting robust backend systems and cloud integrations.
-
----
-
 Thanks for visiting! 😊
