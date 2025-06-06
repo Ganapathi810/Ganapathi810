@@ -4,7 +4,9 @@
 
 🚀 **I’m actively seeking Full-Stack Developer or Software Engineer opportunities** where I can build impactful, scalable web applications and grow with a passionate team. I'm highly motivated and **passionate to thrive in the tech industry**, constantly improving my skills and staying updated with the latest trends.
 
-***Visit my portfolio website to learn more about me** [click here](https://personal-portfolio-website-iota-mauve.vercel.app/)
+***Visit my portfolio website to learn more about me** <a href='https://personal-portfolio-website-iota-mauve.vercel.app/' target='_blank' >Click here</a>
+
+
 ---
 ### 🧠 Programming Languages
 
