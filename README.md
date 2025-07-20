@@ -40,8 +40,10 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="margin-right: 15px;" />
+  <img src="https://fastapi.tiangolo.com/img/logo-teal.png" width="40" />
 </p>
+
 
 ---
 
@@ -50,6 +52,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" style="margin-right: 15px;" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </p>
 
@@ -72,35 +76,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </p>
-
----
-
-### 🌱 Currently Learning
-
-- 📘 TypeScript  
-- 🗃️ PostgreSQL  
-- 📦 Docker  
-- 📐 High-level system design concepts  
-
----
-
-### 🔗 Projects
-
-#### 🎬 Tech Vibe
-[Try it](https://tech-vibe-weld.vercel.app/)  
-[💻 GitHub](https://github.com/Ganapathi810/tech-vibe)
-
----
-
-#### 🧑‍💻 Personal Portfolio Website 
-[Try it](https://personal-portfolio-website-iota-mauve.vercel.app/)  
-[💻 GitHub](https://github.com/Ganapathi810/personal-portfolio-website)
-
----
-
-#### ✅ Todo App
-[Try it](https://todoappfree.vercel.app/)  
-[💻 GitHub](https://github.com/Ganapathi810/todo-app)
 
 ---
 
