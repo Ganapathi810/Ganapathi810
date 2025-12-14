@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ganapathi
 
-🎓 I am a graduate with a degree in Computer Science and Engineering, and skilled in building responsive, dynamic web apps using modern web technologies such as **Next.js**, **Shadcn** and **MERN stack**.I am comfortable in both frontend and backend. Other backend technologies I am familiar with, include FastAPI, python,postgres + prismaORM
+🎓 I am a 2024 graduate with a degree in Computer Science and Engineering, and skilled in building responsive, dynamic web apps using modern web technologies such as **Next.js**, **MERN stack**, **Shadcn UI** and **TailwindCSS**,.I am comfortable in both frontend and backend. Other backend technologies I am familiar with, include FastAPI, python,postgres + prismaORM
 
 🚀 **I’m actively seeking Full-Stack Developer or Software Engineer opportunities** where I can build impactful, scalable web applications and grow with a passionate team. I'm highly motivated and **passionate to thrive in the tech industry and able to learn any technology that comes along the way**, constantly improving my skills and staying updated with the latest trends.
 
